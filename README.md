@@ -1,4 +1,4 @@
-<h1 align="center" style="line-height:1.5">Aloha!<p style="font-size:1.5rem"><strong>Dhanush here</strong></p></h1>
+<h1 align="center" style="line-height:1.5">Hola!<p style="font-size:1.5rem"><strong>Dhanush here</strong></p></h1>
 
 
 - 🌱 I’m currently learning more on Android App Development.
