@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning more on Android App Development.
 - 💬 Ask me about C++ , Datastuctures or any tech-related stuff.
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: will be available 24/7 for any math related discussions.
 
 
